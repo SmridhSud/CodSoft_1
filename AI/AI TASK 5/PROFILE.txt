@@ -1,0 +1,4 @@
+Set-Alias run_ai5 "C:\Users\sudsm\AppData\Local\Programs\Python\Python312\python.exe"
+Function run_ai5 {
+    & "C:\Users\sudsm\AppData\Local\Programs\Python\Python312\python.exe" "C:\Users\sudsm\Desktop\CodeSoft\CodeSoft Code\AI\AI TASK 5\ai_task_5.py"
+}
